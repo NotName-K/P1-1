@@ -21,7 +21,7 @@ public class Libros {
 
       public static void main(String[] args) {
            Libros c = new Libros("A", "B", "C");
-           System.out.println(c.Nombre);
+           System.out.println();
 }
 }
              
